@@ -108,15 +108,13 @@ Traffic video for analysis.
 
 Step 1: Clone the Repository
 
-git clone <your-repository-link>
+git clone https://github.com/bunty031/Video-Based-Traffic-Analysis-for-Capacity-Reduction-Due-to-Roadside-Friction.git
 
 Step 2: Open the Project Folder
 
-cd <project-folder-name>
+cd <Video_Based_Traffic_Analsis_For_Capacity_Reducion_Due_To_Roadside_Friction>
 
 Step 3: Install Required Libraries
-
-If your project contains a requirements.txt file, run:
 
 pip install -r requirements.txt
 
@@ -124,9 +122,7 @@ Step 4: Run the Project
 
 Execute the main Python file:
 
-python <main-file-name>.py
-
-Replace <main-file-name> with the actual name of your project's main Python file.
+python main.py
 
 Step 5: Provide Traffic Video
 
