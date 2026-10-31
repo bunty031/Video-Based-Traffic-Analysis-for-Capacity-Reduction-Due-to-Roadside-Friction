@@ -149,3 +149,6 @@ Develop a dashboard for monitoring traffic conditions.
 9. Conclusion
 
 This project presents a video-based approach to traffic monitoring by combining vehicle detection, classification, tracking, counting, speed estimation, and roadside friction detection. It aims to provide a clearer understanding of traffic conditions and the factors that reduce road capacity.
+
+# Dataset
+  URL: https://drive.google.com/file/d/1UpThRqghx9eUW-QhEhWuEwGeu6JZ3PQ0/view?usp=sharing
